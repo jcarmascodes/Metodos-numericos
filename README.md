@@ -8,5 +8,7 @@ En este repositorio se encuentran los códigos en python de los principales tema
 * Integración numérica
 * EDO
 * EDP
+
 Elaboró: Joel Alejandro García Paredes
+
 Estudiante de Ingeniería en Física, DCI, UG.
